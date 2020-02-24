@@ -8,4 +8,4 @@ public interface ConcADT<E> {
     E getData(int index);
 
 }
-© 2020 GitHub, Inc.
+
